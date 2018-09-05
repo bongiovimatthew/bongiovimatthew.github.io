@@ -1,29 +1,44 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: University of Virginia
+    i18n: uva
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    detail: Researcher at the University of Virginia, developing several projects, including compression-aware algorithms, a diabetic assistance information system, and Visio prototyping tools
+    i18n: uva_desc
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    detail: Aug. 2010
+    i18n: uva_date
   job:
-    detail: CTO
-    i18n: company_a_job
+    detail: Researcher
+    i18n: uva_job
   icon: fa-plus-square
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: SAIC
+    i18n: saic
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    detail: Developed a mobile biometric security application to collect, store, and analyze several biometric modalities. Application was required to run on iOS, Android, and Windows Mobile/CE platforms.
+    i18n: saic_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    detail: May 2011
+    i18n: saic_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
+    detail: Software Development Intern
+    i18n: saic_job
   icon: fa-plus-square
+
+- name:
+  detail: Microsoft
+  i18n: microsoft
+desc:
+  detail: Software developer delivering high-quality, innovative products for Microsoft Azure Cloud, Windows Server, and Windows 10. 
+  i18n: microsoft_desc
+date:
+  detail: Sept. 2014
+  i18n: microsoft_date
+job:
+  detail: Software Engineer
+  i18n: microsoft_job
+icon: fa-plus-square
+
