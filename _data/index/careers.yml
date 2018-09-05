@@ -29,16 +29,15 @@
   icon: fa-plus-square
 
 - name:
-  detail: Microsoft
-  i18n: microsoft
+    detail: Microsoft
+    i18n: microsoft
 desc:
-  detail: Software developer delivering high-quality, innovative products for Microsoft Azure Cloud, Windows Server, and Windows 10. 
-  i18n: microsoft_desc
+    detail: Software developer delivering high-quality, innovative products for Microsoft Azure Cloud, Windows Server, and Windows 10. 
+    i18n: microsoft_desc
 date:
-  detail: Sept. 2014
-  i18n: microsoft_date
+    detail: Sept. 2014
+    i18n: microsoft_date
 job:
-  detail: Software Engineer
-  i18n: microsoft_job
+    detail: Software Engineer
+    i18n: microsoft_job
 icon: fa-plus-square
-
